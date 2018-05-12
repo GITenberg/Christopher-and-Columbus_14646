@@ -1,0 +1,47 @@
+_repo: Christopher-and-Columbus_14646
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Litle, Arthur
+    alias: Little, Arthur
+    gutenberg_agent_id: '39439'
+    url: http://www.gutenberg.org/2009/agents/39439
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Beauchamp, Mary Annette
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    - Cholmondeley, Alice
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Arnim, Elizabeth von
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: The protagonists are Anna-Rose and Anna-Felicitas von Twinkler, 17-year-old
+  twins from an aristocratic, half-German family. Orphaned, they are sent to an uncle
+  in England, but World War I is on and afraid of anti-German hysteria, the uncle
+  packs them off to America. On the ship they are befriended by a man who becomes
+  the girls' protector on their American adventure.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twins -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Germans -- Foreign countries -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Young women -- Fiction'
+title: Christopher and Columbus
+url: http://www.gutenberg.org/ebooks/14646
